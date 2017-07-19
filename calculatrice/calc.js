@@ -15,16 +15,23 @@ var resultAddition=addition(calcul,calcul2);
 alert(resultAddition);
 
 
-function multi(pepette1,pepette2){
+function multi(p1,p2){
 
 var result;
-result=pepette1*pepette2;
+result=p1*p2;
 return result;
 }
  var resultMultiplication=multi(calcul,calcul2);
  alert(resultMultiplication);
 
+// on veut une boucle qui compte de 1 à 100;
+var prixFixe=320;
+var prix=Number(prompt("entrez le prix");
 
+ 
+while(prix !==prixFixe){
+	prix<prixFixe
+	
 
 
 
